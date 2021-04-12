@@ -1,0 +1,100 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".TampilSemua_KHS">
+    <LinearLayout
+        android:id="@+id/datadiri"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/archivo_black"
+            android:text="Data Mahasiswa"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/baloo"
+            android:text="Nama : Mohammad Bagus Chalil A"
+            android:textSize="14sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/baloo"
+            android:text="NIM     : A22.2019.02733"
+            android:textSize="14sp"/>
+    </LinearLayout>
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow
+            android:id="@+id/e1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/bg_header_tabel">
+            <TextView
+                android:text="No"
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:text="Kode"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:text="Nama Matakuliah"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/white"
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:text="SKS"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:text="N.Angka"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:text="Huruf"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"/>
+        </TableRow>
+    </TableLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView" />
+
+</LinearLayout>
