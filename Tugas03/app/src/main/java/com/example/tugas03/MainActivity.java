@@ -15,12 +15,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void entry(View view) {
-        Intent plus=new Intent(MainActivity.this,TambahKHS.class);
+        Intent plus=new Intent(MainActivity.this, TambahObat.class);
         startActivity(plus);
     }
 
     public void View(View view) {
-        Intent lihat=new Intent(MainActivity.this,TampilSemua_KHS.class);
+        Intent lihat=new Intent(MainActivity.this, TampilSemua_Obat.class);
         startActivity(lihat);
     }
 }

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestApiFull Barang</string>
+    <string name="npm">Kode</string>
+    <string name="name">Nama</string>
+    <string name="classes">Harga</string>
+    <string name="register">Daftar</string>
+    <string name="view">Lihat Data</string>
+    <string name="error">Kesalahan Jaringan</string>
+</resources>

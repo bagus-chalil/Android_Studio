@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847669316004",
+    "project_id": "projekmobile2",
+    "storage_bucket": "projekmobile2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847669316004:android:649b2a4d775131eb621931",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847669316004-nrksclpl7m1m2489q0a3ensoqhvrjbet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVukzmqzQAKHLll5gfkC6Tle5yFABzsLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847669316004-nrksclpl7m1m2489q0a3ensoqhvrjbet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

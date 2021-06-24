@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/drawable-v24/ic_baseline_account_circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/font/baloo.xml" value="0.284375" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/activity_tambah_khs.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/activity_tambah_obat.xml" value="0.264" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/activity_tampil_obat.xml" value="0.264" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/activity_tampil_semua_obat.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/bagus/Dropbox/My PC (LAPTOP-SBS89V0T)/Documents/Semester 4/Pemrogaman Mobile 2/Android_Studio/UTS/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
